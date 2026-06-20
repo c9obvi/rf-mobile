@@ -7,8 +7,6 @@ This project is a lightweight static website built with plain HTML, CSS, and Jav
 ## Live Site
 [Open the Baofeng UV-5R Interactive Guide](https://c9obvi.github.io/rf-mobile/baofeng/)
 
-<a href="https://c9obvi.github.io/rf-mobile/baofeng/" target="_blank" rel="noopener noreferrer">Open the Baofeng UV-5R Interactive Guide</a>
-
 GitHub Pages URL:
 
 ```txt
