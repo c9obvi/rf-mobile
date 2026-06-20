@@ -5,6 +5,7 @@ An interactive field guide for Baofeng UV-5R-style handheld radios, focused on b
 This project is a lightweight static website built with plain HTML, CSS, and JavaScript. It is designed to help a new radio user understand what a Baofeng UV-5R-style handheld can do, what it should not be used for, how to listen safely, how to communicate radio-to-radio legally, and how to think about local frequencies, repeaters, NOAA weather, emergency communications, and programming basics.
 
 ## Live Site
+[Open the Baofeng UV-5R Interactive Guide](https://c9obvi.github.io/rf-mobile/baofeng/)
 
 GitHub Pages URL:
 
